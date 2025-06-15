@@ -2,7 +2,7 @@ body {
   background-image: url('deer-3275594_1280.jpg');
   margin: 20px 10px;
   min-height: 100hv;
-  background-attachment: cover;
+  background-size: cover;
   background-repeat: none;
   background-position: center;
   overflow: hidden;
@@ -19,7 +19,6 @@ body {
 }
 .incrememt-btn {
   background-color: red;
-  border: 2px solid black;
   border-radius: 10px;
   color: white;
   width: 300px;
@@ -31,7 +30,6 @@ body {
 
 .save-btn {
   background-color: green;
-  border: 2px solid black;
   border-radius: 10px;
   color: white;
   width: 300px;
